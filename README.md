@@ -1,3 +1,5 @@
+# I am still working on this page, if you have question please contact me through: szx0112@huskers.unl.edu
+
 # A Co-optimal Coverage Path Planning Method for Aerial Inspection of Complex Structures https://doi.org/10.1016/j.eswa.2020.113535
 Source code of the paper: A Co-optimal Coverage Path Planning Method for Aerial Inspection of Complex Structures published in Expert Systems with Applicaitons in 2020
 
