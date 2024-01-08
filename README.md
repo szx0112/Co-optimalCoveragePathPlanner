@@ -24,9 +24,8 @@ Parameters are stored in param.py
 Select the model/parameters in param.py and go to the main.py
 
 # TO DO
-OBBTree collision detection
+OBBTree
 RRT
-Quality Evaluation
 
 
 
