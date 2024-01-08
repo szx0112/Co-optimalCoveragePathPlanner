@@ -13,7 +13,7 @@ The utilization of unmanned aerial vehicles (UAVs) in survey and inspection of c
 3. Deap
 4. VTK
 
-Code was originally developed in Ubuntu 16.04 python 3.4, tested in Ubuntu 20.04 python 3.7.
+Code was originally developed in Ubuntu 16.04 python 3.4, tested in Ubuntu 20.04 python 3.8.
 
 # Models
 Four models can be found /meshes folder, including three models used in SIP and the paper
