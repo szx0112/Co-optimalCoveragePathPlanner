@@ -22,11 +22,15 @@ Four models can be found /meshes folder, including three models used in SIP and 
 Parameters are stored in param.py
 
 # How to run
-Select the model/parameters in param.py and go to the main.py
+1. select the models in /meshes folder
+2. edit or use the default parameters stored in param.py
+3. exeute the main function in main.py
 
 # TO DO
-OBBTree
-RRT
+The following fucntions are not included in this version.
+1. OBBTree
+2. RRT
+3. quality evaluation
 
 
 
