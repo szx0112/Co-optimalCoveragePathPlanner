@@ -1,7 +1,5 @@
-# I am still working on this page, if you have question please contact me through: szx0112@huskers.unl.edu
-
 # A Co-optimal Coverage Path Planning Method for Aerial Inspection of Complex Structures https://doi.org/10.1016/j.eswa.2020.113535
-Source code of the paper: A Co-optimal Coverage Path Planning Method for Aerial Inspection of Complex Structures published in Expert Systems with Applicaitons in 2020
+Original source code of the paper: A Co-optimal Coverage Path Planning Method for Aerial Inspection of Complex Structures published in Expert Systems with Applicaitons in 2020
 
 ![1-s2 0-S0957417420303596-gr10](https://github.com/szx0112/co-optimal-path-planning.github.io/assets/10392640/1638700c-252f-4b39-91a9-7060f5c9f546)
 
@@ -11,16 +9,24 @@ The utilization of unmanned aerial vehicles (UAVs) in survey and inspection of c
 
 # Libraries
 1. Numpy
-2. Pymp
-3. 
-4. LKH-TSP
-Code was originally developed in Ubuntu 16.04, tested in 18.04.
+2. LKH-TSP
+3. VTK
+4. ...
+Code was originally developed in Ubuntu 16.04 python 3.4, tested in 20.04 python 3.7.
 
 # Models
-Three simulation models used in the paper can be found /models folder
+Four models can be found /meshes folder, including three models used in SIP and the paper
 
-# 
+# Parameters
+Parameters are stored in param.py
 
+# How to run
+Select the model/parameters in param.py and go to the main.py
+
+# TO DO
+OBBTree collision detection
+RRT
+Quality Evaluation
 
 
 
