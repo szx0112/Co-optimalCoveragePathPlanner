@@ -1,9 +1,9 @@
 # A Co-optimal Coverage Path Planner (CCPP)
 
 Original source code of the paper: 
-A Co-optimal Coverage Path Planning Method for Aerial Inspection of Complex Structures 
-Zhexiong Shang, Justin Bradley, Zhigang Shen
-Expert Systems with Applicaitons, 2020
+A Co-optimal Coverage Path Planning Method for Aerial Inspection of Complex Structures. 
+Zhexiong Shang, Justin Bradley, Zhigang Shen.
+Expert Systems with Applicaitons, 2020.
 https://doi.org/10.1016/j.eswa.2020.113535
 ![1-s2 0-S0957417420303596-gr10](https://github.com/szx0112/co-optimal-path-planning.github.io/assets/10392640/1638700c-252f-4b39-91a9-7060f5c9f546)
 
