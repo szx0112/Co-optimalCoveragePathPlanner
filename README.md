@@ -31,10 +31,10 @@ Parameters are stored in param.py
 3. Exeute main.py
 
 # TO DO
-The following fucntions are not included in this version.
+This repository is still under development, the following fucntions are not included.
 1. OBBTree
 2. RRT
-3. quality evaluation
+3. Quality evaluation
 
 # Credits
 This algorithm was developed by Zhexiong Shang with the help and support from Prof. Zhigang Shen and Prof. Justin Bradley 
