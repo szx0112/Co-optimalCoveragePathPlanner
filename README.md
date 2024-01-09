@@ -26,9 +26,9 @@ Four models can be found /meshes folder, including three models used in SIP and 
 Parameters are stored in param.py
 
 # How to run
-1. select the models in /meshes folder
-2. edit or use the default parameters stored in param.py
-3. exeute the main function in main.py
+1. View and select the models in /meshes folder
+2. Use the default parameters or selected by your own in param.py
+3. Exeute main.py
 
 # TO DO
 The following fucntions are not included in this version.
