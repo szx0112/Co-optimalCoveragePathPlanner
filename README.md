@@ -32,5 +32,6 @@ The following fucntions are not included in this version.
 2. RRT
 3. quality evaluation
 
-
+# Credits
+This algorithm was developed by Zhexiong Shang under the support of Prof. Zhigang Shen and Prof. Justin Bradley 
 
