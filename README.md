@@ -34,7 +34,7 @@ Parameters are stored in param.py
 hoaHakanaia
 
 1. ε=1.0
-![hoa_1](https://github.com/szx0112/co-optimal-path-planning.github.io/assets/10392640/45059e05-34e0-4453-8fa0-4d95ae5c8247 | width=100)
+<img src="[https://your-image-url.type](https://github.com/szx0112/co-optimal-path-planning.github.io/assets/10392640/45059e05-34e0-4453-8fa0-4d95ae5c8247)" width="100" height="100">
 ![hoa_1_p](https://github.com/szx0112/co-optimal-path-planning.github.io/assets/10392640/0788bc2a-e8c7-4fae-bbdf-08d8d9d97c67)
 
 2. ε=0.5
