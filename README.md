@@ -34,8 +34,8 @@ Parameters are stored in param.py
 hoaHakanaia (pop=30, iter=30)
 
 1. When ε=1.0
-<img src="https://github.com/szx0112/co-optimal-path-planning.github.io/assets/10392640/0788bc2a-e8c7-4fae-bbdf-08d8d9d97c67" width="300" height="300">
-![hoa_1_p](https://github.com/szx0112/co-optimal-path-planning.github.io/assets/10392640/0788bc2a-e8c7-4fae-bbdf-08d8d9d97c67)
+<img src="https://github.com/szx0112/co-optimal-path-planning.github.io/assets/10392640/1ff8fc05-c1e7-47d9-b9c0-f3c582336846" width="350" height="300">
+<img src="https://github.com/szx0112/co-optimal-path-planning.github.io/assets/10392640/0788bc2a-e8c7-4fae-bbdf-08d8d9d97c67" width="350" height="300">
 
 2. When ε=0.5
 ![hoa_05](https://github.com/szx0112/co-optimal-path-planning.github.io/assets/10392640/f76c8a1c-141a-4f96-9104-83b5c6c42b72)
