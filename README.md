@@ -50,7 +50,8 @@ This repository is still under development, the following fucntions are not incl
 1. OBBTree
 2. RRT
 3. Quality evaluation
+4. etc.
 
 # Credits
-This algorithm was developed by Zhexiong Shang with the help and support from Prof. Zhigang Shen and Prof. Justin Bradley 
+This algorithm was developed by Zhexiong Shang under the supervison and support from Prof. Zhigang Shen and Prof. Justin Bradley 
 
