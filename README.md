@@ -30,6 +30,15 @@ Parameters are stored in param.py
 2. Use the default parameters or selected by your own in param.py
 3. Exeute main.py
 
+# Examples
+hoaHakanaia
+
+1. ε=1.0
+
+2. ε=0.5
+
+3. ε=0.0
+
 # TO DO
 This repository is still under development, the following fucntions are not included.
 1. OBBTree
