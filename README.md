@@ -45,7 +45,7 @@ hoaHakanaia (pop=30, iter=30)
 # TO DO
 This repository is still under development. The following fucntions are not included in the current update.
 1. OBBTree
-2. RRT
+2. RRT*
 3. Quality evaluation
 4. etc.
 
