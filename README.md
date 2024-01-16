@@ -24,8 +24,8 @@ Parameters are stored in param.py
 
 # How to run
 1. View and select the models in /meshes folder
-2. Use the default parameters or selected by your own in param.py
-3. Exeute main.py
+2. Use the default parameters or select your own in param.py
+3. Run main.py
 
 # Examples
 hoaHakanaia (pop=30, iter=30)
