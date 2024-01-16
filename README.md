@@ -1,4 +1,4 @@
-# A Co-optimal Coverage Path Planner (CCPP)
+# Co-optimal Coverage Path Planner (CCPP)
 
 Original source code of the paper: 
 A Co-optimal Coverage Path Planning Method for Aerial Inspection of Complex Structures. 
