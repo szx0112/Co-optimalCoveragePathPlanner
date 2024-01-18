@@ -10,9 +10,9 @@ Abstract: The utilization of unmanned aerial vehicles (UAVs) in survey and inspe
 
 # Libraries
 1. Numpy
-2. LKH-TSP
-3. Deap
-4. VTK
+2. LKH http://webhotel4.ruc.dk/~keld/research/LKH/
+3. Deap https://deap.readthedocs.io/en/master/
+4. VTK 
 
 Code was originally developed under Ubuntu 16.04 python 3.4, tested in Ubuntu 20.04 python 3.8.
 
