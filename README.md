@@ -17,7 +17,7 @@ Abstract: The utilization of unmanned aerial vehicles (UAVs) in survey and inspe
 Code was originally developed under Ubuntu 16.04 python 3.4, tested in Ubuntu 20.04 python 3.8.
 
 # Models
-Four models can be found /meshes folder, including three models used in SIP and the paper
+Four models can be found in /meshes folder, including three models used in SIP and the paper
 
 # Parameters
 Parameters are stored in param.py
@@ -46,9 +46,9 @@ hoaHakanaia (pop=30, iter=30)
 This repository is still under development. The following fucntions are not included in the current update.
 1. OBBTree
 2. RRT*
-3. Quality evaluation
+3. Quality evaluation/visualization
 4. etc.
 
 # Credits
-This algorithm was developed by Zhexiong Shang under the supervison and support from Prof. Zhigang Shen and Prof. Justin Bradley from the University of Nebraska-Lincoln
+This algorithm was developed by Zhexiong Shang under the supervison and support of Prof. Zhigang Shen and Prof. Justin Bradley from the University of Nebraska-Lincoln
 
