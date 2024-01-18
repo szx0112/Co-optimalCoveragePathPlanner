@@ -42,7 +42,7 @@ hoaHakanaia (pop=30, iter=30)
 <img src="https://github.com/szx0112/co-optimal-path-planning.github.io/assets/10392640/846a2137-b369-440a-b22a-c8e082df8c64" width="400" height="300">
 
 
-# TO DO
+# To Do
 This repository is still under development. The following fucntions are not included in the current update.
 1. OBBTree
 2. RRT*
