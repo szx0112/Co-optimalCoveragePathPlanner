@@ -29,15 +29,15 @@ Parameters are stored in param.py
 
 # Examples
 hoaHakanaia (pop=30, iter=30)
-1. When ε=1.0
+1. Best efficinecy (ε=1.0)
 <img src="https://github.com/szx0112/co-optimal-path-planning.github.io/assets/10392640/1ff8fc05-c1e7-47d9-b9c0-f3c582336846" width="400" height="300">
 <img src="https://github.com/szx0112/co-optimal-path-planning.github.io/assets/10392640/0788bc2a-e8c7-4fae-bbdf-08d8d9d97c67" width="400" height="300">
 
-2. When ε=0.5
+2. Quality-Efficiency Co-optimized (ε=0.5)
 <img src="https://github.com/szx0112/co-optimal-path-planning.github.io/assets/10392640/f76c8a1c-141a-4f96-9104-83b5c6c42b72" width="400" height="300">
 <img src="https://github.com/szx0112/co-optimal-path-planning.github.io/assets/10392640/88af7f1d-455d-44e1-9ff3-5d83517789be" width="400" height="300">
 
-3. When ε=0.0
+3. Best quality (ε=0.0)
 <img src="https://github.com/szx0112/co-optimal-path-planning.github.io/assets/10392640/3286fe4e-8d31-4467-973d-b7fb1774680e" width="400" height="300">
 <img src="https://github.com/szx0112/co-optimal-path-planning.github.io/assets/10392640/846a2137-b369-440a-b22a-c8e082df8c64" width="400" height="300">
 
