@@ -28,7 +28,8 @@ Parameters are stored in param.py
 3. Run main.py
 
 # Examples
-hoaHakanaia (pop=30, iter=30)
+HoaHakanaia (pop=30, iter=30)
+
 1. Best efficinecy (ε=1.0)
 <img src="https://github.com/szx0112/co-optimal-path-planning.github.io/assets/10392640/1ff8fc05-c1e7-47d9-b9c0-f3c582336846" width="400" height="300">
 <img src="https://github.com/szx0112/co-optimal-path-planning.github.io/assets/10392640/0788bc2a-e8c7-4fae-bbdf-08d8d9d97c67" width="400" height="300">
