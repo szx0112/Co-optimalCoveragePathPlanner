@@ -51,5 +51,5 @@ This repository is still under development. The following fucntions are not incl
 4. etc.
 
 # Credits
-This algorithm was developed by Zhexiong Shang under the supervison and support of Prof. Zhigang Shen and Prof. Justin Bradley from the University of Nebraska-Lincoln
+This algorithm was developed by Zhexiong Shang under the supervison and support from Prof. Zhigang Shen and Prof. Justin Bradley at the University of Nebraska-Lincoln
 
